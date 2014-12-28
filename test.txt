@@ -1,0 +1,1 @@
+git clone https://trol929@bitbucket.org/trol929/vtiger.git
